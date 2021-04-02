@@ -1,0 +1,10 @@
+apiVersion: v1
+entries:
+  Diabetes-Detector-Flask:
+    - name: ML-Diabetes-Detector
+      sources: 
+      - https://github.com/ritwik-jha/helm-chart-flask.git
+      urls:
+      - https://ritwik-jha.github.io/helm-chart-flask/ML-flask-0.1.tgz
+      version: 1.0
+
